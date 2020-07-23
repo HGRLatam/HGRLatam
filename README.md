@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, Mi Nombre es Pedro
 #### Soy Técnico Informático 
-![Soy Técnico Informático ](https://cdn.pixabay.com/photo/2016/11/09/15/27/dna-1811955_960_720.jpg)
+![Soy Técnico Informático ]<!-- (https://cdn.pixabay.com/photo/2016/11/09/15/27/dna-1811955_960_720.jpg)-->
 
 Uno de mis grandes pasatiempos es leer mucho sobre el Desarrollo Web.
 
